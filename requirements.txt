@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+torch
+pencv-python
+Pillow
+ultralyticsh
