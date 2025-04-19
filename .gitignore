@@ -1,5 +1,5 @@
 /venv
-/masknet.pt
+#/masknet.pt
 /masknet.h5
 /masknet (1).h5
-/images
+#/images

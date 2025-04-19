@@ -4,6 +4,6 @@ matplotlib
 seaborn
 streamlit
 torch
-pencv-python
+opencv-python
 Pillow
-ultralyticsh
+ultralytics
