@@ -7,3 +7,4 @@ torch
 opencv-python
 Pillow
 ultralytics
+gunicorn
